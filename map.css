@@ -1,0 +1,17 @@
+.tooltip{
+    position: absolute;
+    background-color: cornsilk;
+    border-radius: 5px;
+    padding: 5px;
+    top: 0;
+    left: 0;
+}
+
+.active{
+    fill: burlywood;
+}
+
+.wrapper{
+    width: 1200px;
+    height: 400px;
+}
